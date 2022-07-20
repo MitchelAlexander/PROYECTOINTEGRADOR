@@ -1,12 +1,25 @@
-C1	Laptops
-C2	Monitores
-C3	Mauses
-C4	Teclados
-C5	Placas Madre
-C6	Audifonos
-C7	Procesadores
-C8	Almacenamiento
-C9	Memorias ram
-C10	Cases
-C11	Funte de poder
-C12	Tarjeta de video
+C1	A71
+C2	S22 ULTRA
+C3	A50
+C4	TABS7 PLUS
+C5	A22 5G
+C6	P40 PRO
+C7	P50
+C8	P30 PRO
+C9	P50 PRO
+C10	NOVA Y7
+C11	POCO F3
+C12	NOTE 10 PRO
+C13     NOTE 11
+C14     POCO X3 GT
+C15     POCO X4
+C16     K22
+C17     K42
+C18     ESTILUS
+C19     K62
+C20     K51S
+C21     MOTO G22
+C22     ONE FUCION
+C23 	MOTO G7
+C24 	MOTO G52
+C25 	MOTO G200
