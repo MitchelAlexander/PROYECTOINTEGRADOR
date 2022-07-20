@@ -1,2 +1,3 @@
-74299063    	Mitchel Alexander Condori Mamani   General	
-75521390	Michael Brayan Cornejo Aguilar     General
+74299063    	Mitchel Alexander Condori Mamani   General	null
+75521390	Michael Brayan Cornejo Aguilar     General	null
+73717721	elias	frecuente
