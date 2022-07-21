@@ -1,15 +1,5 @@
-M1	Intel
-M2	AMD
-M3	Asus
-M4	Gigabyte
-M5	Logitech
-M6	BenQ
-M7	Corsair
-M8	Hp
-M9	Lenovo
-M10	Halion
-M11	Red Dragon
-M12	Samsung
-M13	LG
-M14	Antryx
-M15	Msi
+M1	Samsung
+M2	Huawey
+M3	Motorola
+M4	LG
+M5  	Xiaomi

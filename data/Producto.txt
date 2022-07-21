@@ -1,11 +1,20 @@
-P1	LapTop Lenovo 15.6	C1	M9	1999.0	200.0	18
-P2	Teclado Ginius	C4	M3	44.0	5.0	20
-P3	Antrix mause	C3	M14	69.0	10.0	20
-P4	Monitor HG-2409	C2	M4	899.0	100.0	15
-P5	Audifono HS35N	C6	M7	159.0	20.0	20
-P6	Placa Madre Asus	C5	M3	615.0	45.0	15
-P7	Procesador Ryzen	C7	M2	819.0	80.0	15
-P8	Tarjeta de video MSI	C12	M15	600.0	50.0	15
-P9	Case - 1St Player	C10	M11	249.0	30.0	18
-P10	Fuente Halio ATX	C11	M10	110.0	20.0	15
-P11	Memoria RAM Corsair	C9	M7	299.0	40.0	18
+P1	Samsung s22 ultra	C1	M1	3999.0	200.0	18
+P2	Samsung A71	C2	M1	1444.0	225.0	20
+P3	Samsung S21	C3	M1	2969.0	310.0	20
+P4	Samsung tab S7	C4	M1	5899.0	500.0	15
+P5	Huawey p40 pro	C5	M2	959.0	120.0	20
+P6	Huawey p50	C6	M2	1615.0	145.0	15
+P7	Huawey p30 pro	C7	M2	1019.0	80.0	15
+P8	Huawey p50 pro	C8	M15	1900.0	250.0	15
+P9	Motorola moto g22	C9	M3	849.0	30.0	18
+P10	Motorola moto g7	C10	M3	410.0	20.0	15
+P11	Motorola one fucion	C11	M3	1099.0	140.0	18
+P12	Motorola moto g52	C12	M3	1099.0	140.0	15
+P13	LG k22	C13	M4	699.0	40.0	13
+P14	LG k42	C14	M4	899.0	60.0	18
+P15	LG stilus	C15	M4	1099.0	130.0	19
+P16	LG k62	C16	M4	1499.0	160.0	20
+P17	Xiaomi poco f3 	C17	M5	2399.0	240.0	13
+P18	Xiaomi note10 pro	C18	M5	1099.0	140.0	14
+P19	Xiaomi note11	C19	M5	899.0	60.0	15
+P20	Xiaomi poco x3gt	C20	M5	1899.0	160.0	17

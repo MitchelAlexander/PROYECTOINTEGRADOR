@@ -1,12 +1,20 @@
-C1	Laptops
-C2	Monitores
-C3	Mauses
-C4	Teclados
-C5	Placas Madre
-C6	Audifonos
-C7	Procesadores
-C8	Almacenamiento
-C9	Memorias ram
-C10	Cases
-C11	Funte de poder
-C12	Tarjeta de video
+C1	Samsung s22 ultra
+C2	Samsung A71
+C3	Samsung S21
+C4	Samsung tab S7
+C5	Huawey p40 pro
+C6	Huawey p50
+C7	Huawey p30
+C8	Huawey p50 pro
+C9	Motorola moto g22
+C10	Motorola moto g7
+C11	Motorola one fucion
+C12	Motorola moto g52
+C13	LG k22
+C14	LG k42
+C15	LG stilus
+C16	LG k62
+C17	Xiaomi poco f3
+C18	Xiaomi note10 pro
+C19	Xiaomi note11
+C20	Xiaomi poco x3gt
